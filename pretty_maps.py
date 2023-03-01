@@ -5,6 +5,8 @@ osmnx, descartes, shapely, numpy, vsketch
 
 # In Terminal: pip install prettymaps
 
+# Video Walkthrough Link: https://www.youtube.com/watch?v=9EJ2To7EvSo&ab_channel=Erudite
+
 import prettymaps
 from matplotlib import pyplot as plt
 
